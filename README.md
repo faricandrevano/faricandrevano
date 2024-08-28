@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Fullstack Mobile Developer with deep expertise in developing end-to-end software applications. With a strong background in various technologies and platforms, I seamlessly integrate frontend and backend tasks, creating robust and user-friendly solutions.
+I am a Fullstack Mobile Developer with deep expertise in developing end-to-end software applications. With a strong background in various technologies and platforms, I seamlessly integrate frontend and backend tasks, creating robust and user-friendly solutions. As a Fullstack Mobile Developer, I specialize in cross-platform mobile application development using Flutter or Jetpack Compose, a framework I am highly proficient in. I combine UI/UX design creativity with optimal technical performance, delivering engaging and responsive applications across different devices.
 
 
 ## 🌐 Socials:
